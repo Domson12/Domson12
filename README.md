@@ -1,8 +1,22 @@
 ### Hi there 👋, My name is Dominik Mazurkiewicz
+
+
 ####  I'm interested in mobile development and I pursue this path of career
+
+
 I focus on native android development in Kotlin. Programming is my passion and I'm sure this is the exact career I'm interested in.
 
-Skills: Kotlin / Android / Android SDK / Jetpack / Basic knowledge of jetpack Compose and coroutines 
+
+
+
+Skills:
+Kotlin  
+Android 
+Android SDK 
+Jetpack 
+Basic knowledge of jetpack Compose and coroutines 
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Domson12)
