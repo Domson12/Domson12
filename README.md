@@ -10,7 +10,7 @@ I focus on native android development in Kotlin. Programming is my passion and I
 
 
 Skills:
-Kotlin / Android / Android SDK / Jetpack / Basic knowledge of jetpack Compose and coroutines 
+Kotlin / Android / Android SDK / Jetpack /  coroutines / Basic knowledge of jetpack Compose
 
 
 
