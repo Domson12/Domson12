@@ -10,7 +10,15 @@ I focus on native android development in Kotlin. Programming is my passion and I
 
 
 Skills:
-Kotlin / Android / Android SDK / Jetpack /  coroutines / Retrofit 2/ Dagger 2 and Hilt / Basic knowledge of jetpack Compose
+
+Kotlin /
+Android / 
+Android SDK / 
+Jetpack /  
+coroutines /
+Retrofit 2 / 
+Dagger 2 and Hilt / 
+Basic knowledge of jetpack Compose
 
 
 
