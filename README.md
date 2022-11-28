@@ -15,11 +15,11 @@ Skills:
 * Kotlin 
 * Android 
 * Android SDK
-*Jetpack 
-*coroutines
-*Retrofit 2 
-*Dagger 2 and Hilt 
-*Basic knowledge of jetpack Compose
+* Jetpack 
+* coroutines
+* Retrofit 2 
+* Dagger 2 and Hilt 
+* jetpack Compose
 
 
 
