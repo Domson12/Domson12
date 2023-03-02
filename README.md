@@ -4,7 +4,7 @@
 ####  I'm interested in mobile development and I pursue this path of career
 
 
-I focus on native android development in Kotlin. Programming is my passion and I'm sure this is the exact career I'm interested in.
+I focus on native android development in Kotlin. 
 
 
 
