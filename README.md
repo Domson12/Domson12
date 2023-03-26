@@ -7,11 +7,8 @@
 
 - 🌱 I’m currently learning **Dart/Flutter**
 
-- 📫 How to reach me **https://www.linkedin.com/in/dominik-mazurkiewicz/**
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 📫 How to reach me 
+- **https://www.linkedin.com/in/dominik-mazurkiewicz/**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
