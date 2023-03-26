@@ -24,4 +24,4 @@ alt="dart" width="40" height="40"/> </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=domson12&" alt="domson12" /></p>
 
-![Profile views](https://gpvc.arturio.dev/Domson12)  
+ 
