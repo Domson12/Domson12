@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domson12&label=Profile%20views&color=0e75b6&style=flat" alt="domson12" /> </p>
 
-- I’m currently working on [ReadAbook](https://github.com/Domson12/MovieApp)
+- I’m currently working on [MovieApp](https://github.com/Domson12/MovieApp)
 
 - 🌱 I’m currently learning **Dart/Flutter**
 
