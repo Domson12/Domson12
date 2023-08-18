@@ -5,7 +5,6 @@
 - I'm currently working on [Vibewire](https://github.com/Domson12/vibewire)
 
 - 🌱 I’m currently learning **Dart/Flutter**
-
 - 📫 How to reach me 
 - **https://www.linkedin.com/in/dominik-mazurkiewicz/**
 - **dominikmz12@op.pl**
