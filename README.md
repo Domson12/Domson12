@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Developer</h3>
 
 
-- I'm currently working on [Vibewire](https://github.com/Domson12/vibewire)
+- I'm currently working on [Cashfy](https://github.com/Domson12/cashfy)
 
 - 🌱 I’m currently learning **Dart/Flutter**
 - 📫 How to reach me 
