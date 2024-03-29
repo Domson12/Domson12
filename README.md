@@ -4,7 +4,7 @@
 
 - I'm currently working on [Cashfy](https://github.com/Domson12/cashfy)
 
-- 🌱 I’m currently learning **Dart/Flutter**
+- 🌱 I’m currently learning **GoLang**
 - 📫 How to reach me 
 - **https://www.linkedin.com/in/dominik-mazurkiewicz/**
 - **dominikmz12@op.pl**
