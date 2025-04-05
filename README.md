@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Developer</h3>
 
 
-- I'm currently working on [Cashfy](https://github.com/Domson12/cashfy)
+- I'm currently working on [BeanGO](https://github.com/Domson12/beanGo)
 
 - 🌱 I’m currently learning **GoLang**
 - 📫 How to reach me 
