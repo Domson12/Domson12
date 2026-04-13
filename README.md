@@ -22,7 +22,3 @@ alt="dart" width="40" height="40"/> </a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=domson12&show_icons=true&locale=en" alt="domson12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=domson12&" alt="domson12" /></p>
-
-![GitHub metrics](https://metrics.lecoq.io/Domson12) 
-
- 
